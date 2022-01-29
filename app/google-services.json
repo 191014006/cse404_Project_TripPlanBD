@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730188923749",
+    "project_id": "trip-planbd",
+    "storage_bucket": "trip-planbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730188923749:android:09ce3568bc4c31687cd78c",
+        "android_client_info": {
+          "package_name": "com.example.tripplanbd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730188923749-lakb9jm8r3evpejfss96kn16lfj3hpka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIZnJvChmOGcNAvQBw1wJCYYSXXKtSOR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730188923749-lakb9jm8r3evpejfss96kn16lfj3hpka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
