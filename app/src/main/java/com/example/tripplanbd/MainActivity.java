@@ -69,12 +69,12 @@ public class MainActivity extends AppCompatActivity {
 
         List<TopPlacesData> topPlacesDataList = new ArrayList<>();
         topPlacesDataList.add(new TopPlacesData("Sajek Valley","Bangladesh","Ticket: $200 - $500",R.drawable.sajek));
-        topPlacesDataList.add(new TopPlacesData("Kuakata","Bangladesh","Ticket: $200 - $500",R.drawable.cox));
         topPlacesDataList.add(new TopPlacesData("Sonargaon","Bangladesh","Ticket: $200 - $500",R.drawable.sonarga));
         topPlacesDataList.add(new TopPlacesData("Dhaka","Bangladesh","Ticket: $200 - $500",R.drawable.dhaka));
         topPlacesDataList.add(new TopPlacesData("Khulna","Bangladesh","Ticket: $200 - $500",R.drawable.himchari));
         topPlacesDataList.add(new TopPlacesData("Barisal","Bangladesh","Ticket: $200 - $500",R.drawable.bandorban));
         topPlacesDataList.add(new TopPlacesData("Benapol","Bangladesh","Ticket: $200 - $500",R.drawable.benapol));
+        topPlacesDataList.add(new TopPlacesData("Kuakata","Bangladesh","Ticket: $200 - $500",R.drawable.cox));
         topPlacesDataList.add(new TopPlacesData("Gopalgonj","Bangladesh","Ticket: $200 - $500",R.drawable.gopal));
         topPlacesDataList.add(new TopPlacesData("IT Park","Bangladesh","Ticket: $200 - $500",R.drawable.khulna));
         topPlacesDataList.add(new TopPlacesData("LalBag Kella","Bangladesh","Ticket: $200 - $500",R.drawable.topplaces));
