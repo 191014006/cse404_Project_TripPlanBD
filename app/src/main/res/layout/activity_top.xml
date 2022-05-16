@@ -17,7 +17,7 @@
         app:srcCompat="@drawable/cb" />
 
     <ImageView
-        android:id="@+id/imageView4"
+        android:id="@+id/arroicon"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
@@ -31,7 +31,6 @@
         android:layout_width="wrap_content"
         android:layout_height="24dp"
         android:layout_marginStart="16dp"
-        android:layout_marginTop="8dp"
 
         android:text="Kuakata Sea Beach, Barishal"
         android:textColor="@android:color/background_dark"
@@ -67,7 +66,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
 
-        android:text="Available flight :"
+        android:text="Distance:"
         android:textColor="#044363"
         android:textSize="14sp"
         app:layout_constraintStart_toStartOf="@+id/textView6"
@@ -90,7 +89,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
 
-        android:text="18 April,  2022"
+        android:text="80km"
         android:textSize="12sp"
         app:layout_constraintBottom_toBottomOf="@+id/textView8"
         app:layout_constraintStart_toEndOf="@+id/textView8"
@@ -102,7 +101,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
 
-        android:text="$3,00 - $8,00"
+        android:text="4000bdt - 6000bdt"
         android:textSize="12sp"
         app:layout_constraintBottom_toBottomOf="@+id/textView9"
         app:layout_constraintStart_toEndOf="@+id/textView9"
@@ -153,12 +152,12 @@
 
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/see"
         android:layout_width="0dp"
         android:layout_height="50dp"
         android:background="@drawable/book_button_bg"
 
-        android:text="Confirm Booking"
+        android:text="Hotel and Transport Info."
         android:textColor="#FFFFFF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@+id/textView14"

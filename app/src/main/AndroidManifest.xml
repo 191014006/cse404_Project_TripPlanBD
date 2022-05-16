@@ -22,6 +22,12 @@
             android:name=".DetailsActivity"
             android:exported="false" />
         <activity
+            android:name=".RecentActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HotelActivity"
+            android:exported="false" />
+        <activity
             android:name=".LoginActivity"
             android:exported="true" >
             <intent-filter>

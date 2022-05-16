@@ -53,31 +53,31 @@ public class MainActivity extends AppCompatActivity {
         // Now here we will add some dummy data
 
         List<RecentsData> recentsDataList = new ArrayList<>();
-        recentsDataList.add(new RecentsData("Sundarbans Mangrove ","Bangladesh","Ticket: $200",R.drawable.sundarban));
-        recentsDataList.add(new RecentsData("Saint Martin’s Island","Bangladesh","Ticket: $300",R.drawable.saint));
-        recentsDataList.add(new RecentsData("Cox’s Bazar","Bangladesh","Ticket: $200",R.drawable.cox));
-        recentsDataList.add(new RecentsData("Jaflong","Bangladesh","Ticket: $300",R.drawable.jl));
-        recentsDataList.add(new RecentsData("Bandarban","Bangladesh","Ticket: $200",R.drawable.bandorban));
-        recentsDataList.add(new RecentsData("Srimongol","Bangladesh","Ticket: $300",R.drawable.srimongol));
-        recentsDataList.add(new RecentsData("Sylet","Bangladesh","Ticket: $200",R.drawable.sylet));
-        recentsDataList.add(new RecentsData("Himchori","Bangladesh","Ticket: $300",R.drawable.himchari));
-        recentsDataList.add(new RecentsData("Teknaf","Bangladesh","Ticket: $200",R.drawable.teknaf));
-        recentsDataList.add(new RecentsData("Rangamati","Bangladesh","Ticket: $300",R.drawable.recentimage1));
-        recentsDataList.add(new RecentsData("Tetulia","Bangladesh","Ticket: $200",R.drawable.tetuliya));
-        recentsDataList.add(new RecentsData("Panchagor","Bangladesh","Ticket: $300",R.drawable.pancho));
+        recentsDataList.add(new RecentsData("Sundarbans Mangrove ","Khulna","Available Flight: 5 May",R.drawable.sundarban));
+        recentsDataList.add(new RecentsData("Saint Martin’s Island","Cox's bazer","Available Flight: 9 May",R.drawable.saint));
+        recentsDataList.add(new RecentsData("Cox’s Bazar","Bangladesh","Available Flight: 5 May",R.drawable.cox));
+        recentsDataList.add(new RecentsData("Jaflong","Sylet","Available Flight: 4 May",R.drawable.jl));
+        recentsDataList.add(new RecentsData("Bandarban","Bangladesh","Available Flight: 3 May",R.drawable.bandorban));
+        recentsDataList.add(new RecentsData("Srimongol","Bangladesh","Available Flight: 1 May",R.drawable.srimongol));
+        recentsDataList.add(new RecentsData("Sylet","Bangladesh","Available Flight: 11 May",R.drawable.sylet));
+        recentsDataList.add(new RecentsData("Himchori","Bangladesh","Available Flight: 6 May",R.drawable.himchari));
+        recentsDataList.add(new RecentsData("Teknaf","Bangladesh","Available Flight: 5 May",R.drawable.teknaf));
+        recentsDataList.add(new RecentsData("Rangamati","Bangladesh","Available Flight: 3 May",R.drawable.recentimage1));
+        recentsDataList.add(new RecentsData("Tetulia","Bangladesh","Available Flight: 1 May",R.drawable.tetuliya));
+        recentsDataList.add(new RecentsData("Panchagor","Bangladesh","Available Flight: 6 May",R.drawable.pancho));
         setRecentRecycler(recentsDataList);
 
         List<TopPlacesData> topPlacesDataList = new ArrayList<>();
-        topPlacesDataList.add(new TopPlacesData("Sajek Valley","Bangladesh","Ticket: $200 - $500",R.drawable.sajek));
-        topPlacesDataList.add(new TopPlacesData("Sonargaon","Bangladesh","Ticket: $200 - $500",R.drawable.sonarga));
-        topPlacesDataList.add(new TopPlacesData("Dhaka","Bangladesh","Ticket: $200 - $500",R.drawable.dhaka));
-        topPlacesDataList.add(new TopPlacesData("Khulna","Bangladesh","Ticket: $200 - $500",R.drawable.himchari));
-        topPlacesDataList.add(new TopPlacesData("Barisal","Bangladesh","Ticket: $200 - $500",R.drawable.bandorban));
-        topPlacesDataList.add(new TopPlacesData("Benapol","Bangladesh","Ticket: $200 - $500",R.drawable.benapol));
-        topPlacesDataList.add(new TopPlacesData("Kuakata","Bangladesh","Ticket: $200 - $500",R.drawable.cox));
-        topPlacesDataList.add(new TopPlacesData("Gopalgonj","Bangladesh","Ticket: $200 - $500",R.drawable.gopal));
-        topPlacesDataList.add(new TopPlacesData("IT Park","Bangladesh","Ticket: $200 - $500",R.drawable.khulna));
-        topPlacesDataList.add(new TopPlacesData("LalBag Kella","Bangladesh","Ticket: $200 - $500",R.drawable.topplaces));
+        topPlacesDataList.add(new TopPlacesData("Sajek Valley","Bandarban","Available Flight: 5 May 2022",R.drawable.sajek));
+        topPlacesDataList.add(new TopPlacesData("Sonargaon","Dhaka","Available Flight: 9 May 2022",R.drawable.sonarga));
+        topPlacesDataList.add(new TopPlacesData("Dhaka","Bangladesh","Available Flight: 4 May 2022",R.drawable.dhaka));
+        topPlacesDataList.add(new TopPlacesData("Khulna","Bangladesh","Available Flight: 3 May 2022",R.drawable.himchari));
+        topPlacesDataList.add(new TopPlacesData("Barisal","Bangladesh","Available Flight: 4 May 2022",R.drawable.bandorban));
+        topPlacesDataList.add(new TopPlacesData("Benapol","Bangladesh","Available Flight: 6 May 2022",R.drawable.benapol));
+        topPlacesDataList.add(new TopPlacesData("Kuakata","Barisal","Available Flight: 11 May 2022",R.drawable.cox));
+        topPlacesDataList.add(new TopPlacesData("Gopalgonj","Bangladesh","Available Flight: 1 May 2022",R.drawable.gopal));
+        topPlacesDataList.add(new TopPlacesData("IT Park","Bangladesh","Available Flight: 2 May 2022",R.drawable.khulna));
+        topPlacesDataList.add(new TopPlacesData("LalBag Kella","Bangladesh","Available Flight: 3 May 2022",R.drawable.topplaces));
         setTopPlacesRecycler(topPlacesDataList);
     }
 

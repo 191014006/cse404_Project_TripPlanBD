@@ -73,7 +73,7 @@ public class LoginActivity extends AppCompatActivity {
                             startActivity(new Intent(LoginActivity.this,MainActivity.class));
                             finish();
                         } else {
-                            Toast.makeText(LoginActivity.this, "Registered First"+task.getException().getMessage(), Toast.LENGTH_SHORT).show();
+                            Toast.makeText(LoginActivity.this, "Do Registered First"+task.getException().getMessage(), Toast.LENGTH_SHORT).show();
                         }
                     }
                 });

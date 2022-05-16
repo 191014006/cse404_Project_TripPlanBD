@@ -5,16 +5,18 @@
       <map>
         <entry key="..\:/ULAB/ULAB 9th semester/ProjectCSE438/app/src/main/res/drawable-v24/bground.xml" value="0.2890625" />
         <entry key="..\:/ULAB/ULAB 9th semester/ProjectCSE438/app/src/main/res/drawable-v24/book_button_bg.xml" value="0.225" />
-        <entry key="..\:/ULAB/ULAB 9th semester/ProjectCSE438/app/src/main/res/drawable-v24/btnbg.xml" value="0.2890625" />
-        <entry key="..\:/ULAB/ULAB 9th semester/ProjectCSE438/app/src/main/res/drawable-v24/ic_arrow_back_black_24dp.xml" value="0.225" />
-        <entry key="..\:/ULAB/ULAB 9th semester/ProjectCSE438/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.225" />
-        <entry key="..\:/ULAB/ULAB 9th semester/ProjectCSE438/app/src/main/res/drawable-v24/ic_search_black_24dp.xml" value="0.2890625" />
+        <entry key="..\:/ULAB/ULAB 9th semester/ProjectCSE438/app/src/main/res/drawable-v24/btnbg.xml" value="0.14" />
+        <entry key="..\:/ULAB/ULAB 9th semester/ProjectCSE438/app/src/main/res/drawable-v24/ic_arrow_back_black_24dp.xml" value="0.1" />
+        <entry key="..\:/ULAB/ULAB 9th semester/ProjectCSE438/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.12" />
+        <entry key="..\:/ULAB/ULAB 9th semester/ProjectCSE438/app/src/main/res/drawable-v24/ic_search_black_24dp.xml" value="0.14" />
         <entry key="..\:/ULAB/ULAB 9th semester/ProjectCSE438/app/src/main/res/drawable-v24/search_bg.xml" value="0.2890625" />
         <entry key="..\:/ULAB/ULAB 9th semester/ProjectCSE438/app/src/main/res/drawable/ic_launcher_background.xml" value="0.225" />
         <entry key="..\:/ULAB/ULAB 9th semester/ProjectCSE438/app/src/main/res/layout/activity_details.xml" value="0.27291666666666664" />
         <entry key="..\:/ULAB/ULAB 9th semester/ProjectCSE438/app/src/main/res/layout/activity_details_top.xml" value="0.27291666666666664" />
+        <entry key="..\:/ULAB/ULAB 9th semester/ProjectCSE438/app/src/main/res/layout/activity_hotel.xml" value="0.27291666666666664" />
         <entry key="..\:/ULAB/ULAB 9th semester/ProjectCSE438/app/src/main/res/layout/activity_login.xml" value="0.19882246376811594" />
         <entry key="..\:/ULAB/ULAB 9th semester/ProjectCSE438/app/src/main/res/layout/activity_main.xml" value="0.25885416666666666" />
+        <entry key="..\:/ULAB/ULAB 9th semester/ProjectCSE438/app/src/main/res/layout/activity_recent.xml" value="0.22" />
         <entry key="..\:/ULAB/ULAB 9th semester/ProjectCSE438/app/src/main/res/layout/activity_register.xml" value="0.27291666666666664" />
         <entry key="..\:/ULAB/ULAB 9th semester/ProjectCSE438/app/src/main/res/layout/activity_top.xml" value="0.27291666666666664" />
         <entry key="..\:/ULAB/ULAB 9th semester/ProjectCSE438/app/src/main/res/layout/recents_row_item.xml" value="0.27291666666666664" />

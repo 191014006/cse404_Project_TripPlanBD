@@ -18,13 +18,12 @@
         app:srcCompat="@drawable/smg" />
 
     <ImageView
-        android:id="@+id/imageView4"
+        android:id="@+id/arroicon"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
-        android:layout_marginTop="16dp"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/imageView3"
         app:srcCompat="@drawable/ic_arrow_back_black_24dp" />
 
     <TextView
@@ -67,7 +66,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
 
-        android:text="Available flight :"
+        android:text="Destination :"
         android:textColor="#044363"
         android:textSize="14sp"
         app:layout_constraintStart_toStartOf="@+id/textView6"
@@ -90,7 +89,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
 
-        android:text="18 March,  2022"
+        android:text="90km"
         android:textSize="12sp"
         app:layout_constraintBottom_toBottomOf="@+id/textView8"
         app:layout_constraintStart_toEndOf="@+id/textView8"
@@ -102,7 +101,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
 
-        android:text="$3,00 - $8,00"
+        android:text="$300 - $800"
         android:textSize="12sp"
         app:layout_constraintBottom_toBottomOf="@+id/textView9"
         app:layout_constraintStart_toEndOf="@+id/textView9"
@@ -153,12 +152,12 @@
 
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/TopHotelBus"
         android:layout_width="0dp"
         android:layout_height="50dp"
         android:background="@drawable/book_button_bg"
 
-        android:text="Start Booking Trip"
+        android:text="Hotel and Transport Info."
         android:textColor="#FFFFFF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@+id/textView14"
